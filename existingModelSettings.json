@@ -5,7 +5,7 @@
   "description": "Mehta model replicated by EMC",
   "createdBy": "add name",
   "organizationName": "Erasmus University Medical Center",
-  "createdDate": "2021-02-25",
+  "createdDate": "2021-02-26",
   "CohortsToCreate": [
     {
       "id": 18899,
@@ -2414,7 +2414,7 @@
     },
     {
       "id": 18548,
-      "name": "Parkinson’s_disease",
+      "name": "Parkinsons_disease",
       "createdDate": 1601466965095,
       "modifiedDate": 1601467150759,
       "hasWriteAccess": false,
@@ -2798,7 +2798,7 @@
     },
     {
       "id": 18556,
-      "name": "Crohn’s_and_ulcerative_disease",
+      "name": "Crohns_and_ulcerative_disease",
       "createdDate": 1601469207943,
       "modifiedDate": 1601470383926,
       "hasWriteAccess": false,
@@ -3236,7 +3236,7 @@
       "details": {
         "modelName": "mehta_dementia_model",
         "author": "NA",
-        "date": "2021-02-25"
+        "date": "2021-02-26"
       },
       "covariateSettings": {
         "createCohortCovariateSettings": [
@@ -3373,7 +3373,7 @@
             "analysisId": 456
           },
           {
-            "covariateName": "Parkinson’s disease days before: -365 days after: 0",
+            "covariateName": "Parkinsons disease days before: -365 days after: 0",
             "covariateId": 18548456,
             "cohortId": 18548,
             "startDay": -365,
@@ -3439,7 +3439,7 @@
             "analysisId": 456
           },
           {
-            "covariateName": "Crohn’s and ulcerative disease days before: -365 days after: 0",
+            "covariateName": "Crohns and ulcerative disease days before: -365 days after: 0",
             "covariateId": 18556456,
             "cohortId": 18556,
             "startDay": -365,
@@ -3751,7 +3751,7 @@
         },
         {
           "atlasId": 18548,
-          "cohortName": "Parkinson’s_disease",
+          "cohortName": "Parkinsons_disease",
           "attr_row.names": 13,
           "attr_class": "data.frame"
         },
@@ -3787,7 +3787,7 @@
         },
         {
           "atlasId": 18556,
-          "cohortName": "Crohn’s_and_ulcerative_disease",
+          "cohortName": "Crohns_and_ulcerative_disease",
           "attr_row.names": 19,
           "attr_class": "data.frame"
         },
